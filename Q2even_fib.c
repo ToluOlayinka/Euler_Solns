@@ -1,3 +1,10 @@
+/*Project Euler Problem 02 */
+/*
+ * author @fifinonz
+ * https://github.com/fifinonz
+ *
+*/
+
 #include <stdio.h>
 
 

@@ -1,3 +1,14 @@
+/*Project Euler Problem 20*/
+/*
+ * author @fifinonz
+ * https://github.com/fifinonz
+ *
+#NOTE: Logic feels correct, 
+#however the output produced is 784
+# correct output is 648 
+
+*/
+
 #include <iostream>
 #include <iomanip>
 #include <limits>

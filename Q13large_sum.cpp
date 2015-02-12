@@ -1,3 +1,10 @@
+/*Project Euler Problem 13 */
+/*
+ * author @fifinonz
+ * https://github.com/fifinonz
+ *
+*/
+
 #include <iostream>
 #include <fstream>
 #include <sstream>

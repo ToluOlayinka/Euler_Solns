@@ -1,3 +1,10 @@
+/*Project Euler Problem 01 */
+/*
+ * author @fifinonz
+ * https://github.com/fifinonz
+ *
+*/
+
 #include <iostream>
 #include <cmath>
 
